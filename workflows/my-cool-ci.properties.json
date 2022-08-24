@@ -3,7 +3,6 @@
     "description": "My cool Organization CI starter workflow.",
     "iconName": "example-icon",
     "categories": [
-        "Java",
-      "Standard"
+        "Java"
     ]
 }
